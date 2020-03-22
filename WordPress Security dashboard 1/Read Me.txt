@@ -1,0 +1,9 @@
+1. Moving plugin folder
+2. Moving themes folder
+3. Moving uploads folder
+4. Htaccess file write
+5. Disable wordpress theme with plugin edit from dashboard.
+6. Disable/change wordpress login url "wp-admin"
+7. Disable add new theme or add new plugin options.
+8. Remove wordpress version from admin panel.
+9. All WordPress in folder insert "index.html" show can't find.
